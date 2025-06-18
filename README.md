@@ -2,6 +2,9 @@
 🛠️ I have experience working with languages and technologies like JAVA, Python, MathLab, R, and  SQL. 
 
 
+Kaggle: https://www.kaggle.com/#
+
+
 
 
 
