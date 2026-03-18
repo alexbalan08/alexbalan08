@@ -1,5 +1,8 @@
 👋 Hello, I'm Alex Balan! I'm a passionate and dedicated Data Science and AI Master student with a special interest for Natrual Language Processing. 
-🛠️ I have experience working with languages and technologies like JAVA, Python, MathLab, R, and  SQL. 
+
+
+🛠️ I have experience working with languages like JAVA, Python, MathLab and SQL. 
+
 
 
 Kaggle: https://www.kaggle.com/#
