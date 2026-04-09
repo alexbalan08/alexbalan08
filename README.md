@@ -12,6 +12,9 @@ Linkednl: https://www.linkedin.com/in/alexandru-balan-573642176/
 
 
 
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
 
 
 
