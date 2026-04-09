@@ -6,6 +6,8 @@
 
 
 Kaggle: https://www.kaggle.com/#
+Linkednl: https://www.linkedin.com/in/alexandru-balan-573642176/
+
 
 
 
