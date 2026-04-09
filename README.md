@@ -12,9 +12,9 @@ I am also passionate about game theory and decision making.
 
 ## 📊 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbalan&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alexbalan&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbalan&layout=compact&theme=tokyonight)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbalan08&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alexbalan08&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbalan08&layout=compact&theme=tokyonight)
 
 ---
 
