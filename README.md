@@ -1,9 +1,9 @@
 # 👋 Hello there, I'm Alex Balan!
 
-🎓 M.Sc. Data Science & AI with focus on Natural Language Processing
+I am currently finishing my masters in Data Science and AI at Maastricht University.
+My main focus is Natural Language Processing, information retreival and deep learning applications. 
+I am also passionate about game theory and decision making. 
 
-
-🛠️ Java · Python · MATLAB · SQL · PyTorch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandru-balan-573642176/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/#)
