@@ -14,9 +14,9 @@ I am also passionate about game theory and decision making.
 
 ## Stats
 
-![Alex's GitHub stats](https://github-readme-stats-alexbalan08.vercel.app/api?username=alexbalan08&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=alexbalan08&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbalan08&layout=compact&theme=tokyonight)
+
 
 ---
 
