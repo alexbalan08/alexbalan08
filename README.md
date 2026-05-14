@@ -12,13 +12,6 @@ I am also passionate about game theory and decision making.
 
 ---
 
-## Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=alexbalan08&theme=tokyonight)
-
-
----
 
 
 
