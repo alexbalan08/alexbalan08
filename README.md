@@ -1,7 +1,10 @@
 # 👋 Hello there, I'm Alex Balan!
 
-Currently finishing my M.Sc. in Data Science & AI at Maastricht University.
-Graduate of the B.Sc. Data Science & AI programme at Maastricht University.
+Currently junior lecturer at Faculty of Science and Engineering, Maastricht. 
+
+
+Graduate of M.Sc. in Data Science and Decision Making - Maastricht University.
+Graduate of the B.Sc. Data Science & AI programme - Maastricht University.
 
 My main focus is Natural Language Processing, information retrieval and deep learning applications, where most of my projects are. 
 
